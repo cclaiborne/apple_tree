@@ -9,7 +9,6 @@ Tim | Jony | Phil
 Phil | Craig | Eddie
 Jony | Dan | Katie
 Katie | Peter | Andrea
-
 </br>
 This tree data structure reorganizes the exexutive team and the results are printed out below.
 </br>

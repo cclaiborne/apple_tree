@@ -3,12 +3,12 @@ Because of recent security breaches, Apple has decided that each member of their
 <br/>
 They are restructuring the team to look like this:
 <br/>
-Name | Report 1 | Report 2
---- | --- | ---
-Tim | Jony | Phil
-Phil | Craig | Eddie
-Jony | Dan | Katie
-Katie | Peter | Andrea
+| Name          | Report 1      | Report 2 |
+| ------------- |:-------------:| --------:|
+| Tim           | Jony          |     Phil |
+| Phil          | Craig         |    Eddie |
+| Jony          | Dan           |    Katie |
+| Katie         | Peter         |   Andrea |
 <br/>
 This tree data structure reorganizes the exexutive team and the results are printed out below.
 <br/>

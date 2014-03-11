@@ -1,21 +1,21 @@
 #Aid Apple in restructuring the executive team
 Because of recent security breaches, Apple has decided that each member of their executive team can only handle overseeing 2 other people at a time.
-</br>
+<br/>
 They are restructuring the team to look like this:
-</br>
+<br/>
 Name | Report 1 | Report 2
 --- | --- | ---
 Tim | Jony | Phil
 Phil | Craig | Eddie
 Jony | Dan | Katie
 Katie | Peter | Andrea
-</br>
+<br/>
 This tree data structure reorganizes the exexutive team and the results are printed out below.
-</br>
+<br/>
 Depth-first traversal outputs:
-</br>
+<br/>
 Preorder: Tim Johny Dan Katie Peter Andrea Phil Craig Eddie
-</br>
+<br/>
 Inorder: Johny Dan Katie Peter Andrea Tim Phil Craig Eddie
-</br>
+<br/>
 Postorder: Johny Dan Katie Peter Andrea Phil Craig Eddie Tim

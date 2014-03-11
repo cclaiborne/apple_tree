@@ -36,12 +36,3 @@ class Tree
 
 end
 
-test = Tree.new('Tim', Tree.new('Johny', Tree.new('Dan'), Tree.new('Katie', Tree.new('Peter'), Tree.new('Andrea'))), Tree.new('Phil', Tree.new('Craig'), Tree.new('Eddie')))
-
-puts "Preorder-"
-  Tree.preorder(test)
-  puts ""
-  Tree.inorder(test)
-  puts ""
-  Tree.postorder(test)
-

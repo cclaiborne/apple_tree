@@ -20,17 +20,17 @@ class Tree
     if root == nil
       return root
     end
-    preorder(root.left)
+    inorder(root.left)
     print root.value + " "
-    preorder(root.right)
+    inorder(root.right)
   end
 
   def self.postorder(root)
     if root == nil
       return root
     end
-    preorder(root.left)
-    preorder(root.right)
+    postorder(root.left)
+    postorder(root.right)
     print root.value + " "
   end
 
